@@ -1,0 +1,197 @@
+2021-05-05 00:15:00 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 00:15:42 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 02:45:17 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 02:45:58 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 02:50:50 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 02:51:26 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 02:58:20 INFO  Log4j:8 - Test basliyor...
+2021-05-05 02:58:24 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 02:58:26 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 02:58:32 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 02:58:34 INFO  Log4j:16 - Fiyatlar aynı.
+2021-05-05 02:58:34 INFO  Log4j:16 - Ürün sayısı : 1
+2021-05-05 02:58:35 INFO  Log4j:16 - Sepet boş
+2021-05-05 02:58:35 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 03:15:21 INFO  Log4j:8 - Test basliyor...
+2021-05-05 03:15:24 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 03:15:24 INFO  Log4j:16 - Id girildi
+2021-05-05 03:15:24 INFO  Log4j:16 - Sifre girildi
+2021-05-05 03:15:26 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 03:15:33 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 03:15:33 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 03:15:35 INFO  Log4j:16 - Fiyatlar kontrol edildi; aynı.
+2021-05-05 03:15:35 INFO  Log4j:16 - Ürün tekrar sepete eklendi
+2021-05-05 03:15:35 INFO  Log4j:16 - Ürün sayısı: 2 
+2021-05-05 03:15:35 INFO  Log4j:16 - Ürünler silindi.
+2021-05-05 03:15:36 INFO  Log4j:16 - Sepet boş
+2021-05-05 03:15:36 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 03:22:13 INFO  Log4j:8 - Test basliyor...
+2021-05-05 03:22:17 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 03:22:17 INFO  Log4j:16 - Id girildi
+2021-05-05 03:22:17 INFO  Log4j:16 - Sifre girildi
+2021-05-05 03:22:19 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 03:22:24 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 03:22:25 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 03:22:26 INFO  Log4j:16 - Fiyatlar kontrol edildi; aynı.
+2021-05-05 03:22:27 INFO  Log4j:16 - Ürün tekrar sepete eklendi
+2021-05-05 03:22:27 INFO  Log4j:16 - Ürün sayısı : 1
+2021-05-05 03:22:27 INFO  Log4j:16 - Ürünler silindi.
+2021-05-05 03:22:28 INFO  Log4j:16 - Sepet boş
+2021-05-05 03:22:28 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 03:33:58 INFO  Log4j:8 - Test basliyor...
+2021-05-05 03:34:01 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 03:34:01 INFO  Log4j:16 - Id girildi
+2021-05-05 03:34:01 INFO  Log4j:16 - Sifre girildi
+2021-05-05 03:34:03 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 03:34:08 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 03:34:09 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 03:34:10 INFO  Log4j:16 - Fiyatlar kontrol edildi; aynı.
+2021-05-05 03:34:10 INFO  Log4j:16 - Ürün tekrar sepete eklendi
+2021-05-05 03:34:11 INFO  Log4j:16 - Ürün sayısı : 1
+2021-05-05 03:34:11 INFO  Log4j:16 - Ürünler silindi.
+2021-05-05 03:34:12 INFO  Log4j:16 - Sepet boş
+2021-05-05 03:34:12 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 03:34:25 INFO  Log4j:8 - Test basliyor...
+2021-05-05 03:34:28 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 03:34:28 INFO  Log4j:16 - Id girildi
+2021-05-05 03:34:28 INFO  Log4j:16 - Sifre girildi
+2021-05-05 03:34:30 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 03:34:36 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 03:34:36 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 03:34:38 INFO  Log4j:16 - Fiyatlar kontrol edildi; aynı.
+2021-05-05 03:34:38 INFO  Log4j:16 - Ürün tekrar sepete eklendi
+2021-05-05 03:34:38 INFO  Log4j:16 - Sepetteki ürün sayısı: 2 
+2021-05-05 03:34:38 INFO  Log4j:16 - Ürünler silindi.
+2021-05-05 03:34:39 INFO  Log4j:16 - Sepet boş
+2021-05-05 03:34:39 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 03:37:05 INFO  Log4j:8 - Test basliyor...
+2021-05-05 03:37:14 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 03:37:14 INFO  Log4j:16 - Id girildi
+2021-05-05 03:37:14 INFO  Log4j:16 - Sifre girildi
+2021-05-05 03:37:17 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 03:37:22 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 03:37:22 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 03:37:24 INFO  Log4j:16 - Fiyatlar kontrol edildi; aynı.
+2021-05-05 03:37:24 INFO  Log4j:16 - Ürün tekrar sepete eklendi
+2021-05-05 03:37:24 INFO  Log4j:16 - Ürün sayısı : 1
+2021-05-05 03:37:25 INFO  Log4j:16 - Ürünler silindi.
+2021-05-05 03:37:25 INFO  Log4j:16 - Sepet boş
+2021-05-05 03:37:25 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 03:37:34 INFO  Log4j:8 - Test basliyor...
+2021-05-05 03:37:38 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 03:37:38 INFO  Log4j:16 - Id girildi
+2021-05-05 03:37:38 INFO  Log4j:16 - Sifre girildi
+2021-05-05 03:37:40 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 03:37:46 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 03:37:46 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 03:37:48 INFO  Log4j:16 - Fiyatlar kontrol edildi; aynı.
+2021-05-05 03:37:48 INFO  Log4j:16 - Ürün tekrar sepete eklendi
+2021-05-05 03:37:48 INFO  Log4j:16 - Ürün sayısı : 1
+2021-05-05 03:37:48 INFO  Log4j:16 - Ürünler silindi.
+2021-05-05 03:37:49 INFO  Log4j:16 - Sepet boş
+2021-05-05 03:37:49 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 04:39:04 INFO  Log4j:8 - Test basliyor...
+2021-05-05 04:39:09 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 04:39:09 INFO  Log4j:16 - Id girildi
+2021-05-05 04:39:09 INFO  Log4j:16 - Sifre girildi
+2021-05-05 04:39:12 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 04:39:17 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 04:39:17 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 04:39:26 INFO  Log4j:16 - Fiyatlar kontrol edildi; aynı.
+2021-05-05 04:39:27 INFO  Log4j:16 - Ürün tekrar sepete eklendi
+2021-05-05 04:39:27 INFO  Log4j:16 - Ürün sayısı : 1
+2021-05-05 04:39:27 INFO  Log4j:16 - Ürünler silindi.
+2021-05-05 04:39:28 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 04:39:42 INFO  Log4j:8 - Test basliyor...
+2021-05-05 04:39:46 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 04:39:46 INFO  Log4j:16 - Id girildi
+2021-05-05 04:39:46 INFO  Log4j:16 - Sifre girildi
+2021-05-05 04:39:48 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 04:39:54 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 04:39:54 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 04:39:56 ERROR Log4j:24 - Fiyatlar kontrol edildi; farklı
+2021-05-05 04:39:56 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 04:40:24 INFO  Log4j:8 - Test basliyor...
+2021-05-05 04:40:28 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 04:40:28 INFO  Log4j:16 - Id girildi
+2021-05-05 04:40:28 INFO  Log4j:16 - Sifre girildi
+2021-05-05 04:40:30 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 04:40:35 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 04:40:36 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 04:40:38 INFO  Log4j:16 - Fiyatlar kontrol edildi; aynı.
+2021-05-05 04:40:38 INFO  Log4j:16 - Ürün tekrar sepete eklendi
+2021-05-05 04:40:38 INFO  Log4j:16 - Ürün sayısı : 1
+2021-05-05 04:40:38 INFO  Log4j:16 - Ürünler silindi.
+2021-05-05 04:40:39 INFO  Log4j:16 - Sepet boş
+2021-05-05 04:40:39 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 04:42:08 INFO  Log4j:8 - Test basliyor...
+2021-05-05 04:42:13 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 04:42:13 INFO  Log4j:16 - Id girildi
+2021-05-05 04:42:13 INFO  Log4j:16 - Sifre girildi
+2021-05-05 04:42:16 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 04:42:22 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 04:42:23 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 04:42:24 INFO  Log4j:16 - Fiyatlar kontrol edildi; aynı.
+2021-05-05 04:42:24 INFO  Log4j:16 - Ürün tekrar sepete eklendi
+2021-05-05 04:42:25 INFO  Log4j:16 - Ürün sayısı : 1
+2021-05-05 04:42:25 INFO  Log4j:16 - Ürünler silindi.
+2021-05-05 04:42:26 INFO  Log4j:16 - Sepet boş
+2021-05-05 04:42:26 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 04:45:43 INFO  Log4j:8 - Test basliyor...
+2021-05-05 04:45:47 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 04:45:47 INFO  Log4j:16 - Id girildi
+2021-05-05 04:45:47 INFO  Log4j:16 - Sifre girildi
+2021-05-05 04:45:50 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 04:45:56 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 04:45:57 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 04:45:59 ERROR Log4j:24 - Fiyatlar kontrol edildi; farklı
+2021-05-05 04:45:59 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 04:54:59 INFO  Log4j:8 - Test basliyor...
+2021-05-05 04:55:05 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 04:55:05 INFO  Log4j:16 - Id girildi
+2021-05-05 04:55:06 INFO  Log4j:16 - Sifre girildi
+2021-05-05 04:55:09 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 04:55:21 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 04:55:21 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 04:55:24 INFO  Log4j:16 - Fiyatlar kontrol edildi; aynı.
+2021-05-05 04:55:25 INFO  Log4j:16 - Ürün tekrar sepete eklendi
+2021-05-05 04:55:25 INFO  Log4j:16 - Sepetteki ürün sayısı: 2 
+2021-05-05 04:55:25 INFO  Log4j:16 - Ürünler silindi.
+2021-05-05 04:55:26 INFO  Log4j:16 - Sepet boş
+2021-05-05 04:55:26 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 04:57:21 INFO  Log4j:8 - Test basliyor...
+2021-05-05 04:57:27 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 04:57:27 INFO  Log4j:16 - Id girildi
+2021-05-05 04:57:27 INFO  Log4j:16 - Sifre girildi
+2021-05-05 04:57:30 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 04:57:39 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 04:57:39 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 04:57:42 INFO  Log4j:16 - Fiyatlar kontrol edildi; aynı.
+2021-05-05 04:57:42 INFO  Log4j:16 - Ürün tekrar sepete eklendi
+2021-05-05 04:57:43 INFO  Log4j:16 - Sepetteki ürün sayısı: 2 
+2021-05-05 04:57:43 INFO  Log4j:16 - Ürünler silindi.
+2021-05-05 04:57:44 INFO  Log4j:16 - Sepet boş
+2021-05-05 04:57:44 INFO  Log4j:12 - Test bitiyor...
+2021-05-05 05:03:15 INFO  Log4j:8 - Test basliyor...
+2021-05-05 05:03:21 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 05:03:22 INFO  Log4j:16 - Id girildi
+2021-05-05 05:03:22 INFO  Log4j:16 - Sifre girildi
+2021-05-05 05:03:25 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 05:03:34 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 05:03:35 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 05:03:45 INFO  Log4j:16 - Fiyatlar kontrol edildi; aynı.
+2021-05-05 05:03:45 INFO  Log4j:16 - Ürün tekrar sepete eklendi
+2021-05-05 05:03:46 INFO  Log4j:16 - Ürün sayısı : 1
+2021-05-05 05:04:46 INFO  Log4j:8 - Test basliyor...
+2021-05-05 05:04:52 INFO  Log4j:16 - Siteye giris yapıldı
+2021-05-05 05:04:52 INFO  Log4j:16 - Id girildi
+2021-05-05 05:04:52 INFO  Log4j:16 - Sifre girildi
+2021-05-05 05:04:55 INFO  Log4j:16 - Siteye login olundu.
+2021-05-05 05:05:04 INFO  Log4j:16 - İkinci sayfaya geçildi.
+2021-05-05 05:05:04 INFO  Log4j:16 - Ürün sepete eklendi
+2021-05-05 05:05:07 INFO  Log4j:16 - Fiyatlar kontrol edildi; aynı.
+2021-05-05 05:05:07 INFO  Log4j:16 - Ürün tekrar sepete eklendi
+2021-05-05 05:05:08 INFO  Log4j:16 - Sepetteki ürün sayısı: 2 
+2021-05-05 05:05:08 INFO  Log4j:16 - Ürünler silindi.
+2021-05-05 05:05:09 INFO  Log4j:16 - Sepet boş
+2021-05-05 05:05:09 INFO  Log4j:12 - Test bitiyor...
